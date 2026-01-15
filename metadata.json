@@ -1,0 +1,7 @@
+{
+  "name": "Lâm Viên Dashboard AI",
+  "description": "Hệ thống điều hành thông minh cho Phường Lâm Viên - Đà Lạt, phân tích báo cáo và quản lý hồ sơ bằng AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
